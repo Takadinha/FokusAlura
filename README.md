@@ -25,4 +25,4 @@ Este projeto visa não apenas criar uma aplicação funcional, mas também explo
 ### Como Rodar o Projeto:
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/FokusAlura.git
+   git clone https://github.com/Takadinha/FokusAlura.git
